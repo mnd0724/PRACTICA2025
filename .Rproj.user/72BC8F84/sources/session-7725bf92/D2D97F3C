@@ -3,7 +3,7 @@
     "path": "C:/Users/practica.aarellano/Desktop/PRACTICA2025/VERANO2025.qmd",
     "project_path": "VERANO2025.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "3591609283",
     "contents": "",
     "dirty": false,
     "created": 1736798462337.0,
@@ -15,18 +15,18 @@
         "tempName": "Untitled2",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "20,0",
+        "cursorPosition": "6,0",
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "544:0"
+        "rmdVisualModeLocation": "2805:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1736798486,
+    "lastKnownWriteTime": 1736798561,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1736798486119,
+    "last_content_update": 1736798561376,
     "read_only": false,
     "read_only_alternatives": []
 }
